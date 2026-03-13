@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, useNavigate, Navigate } from 'react-router-dom';
+import Markdown from 'react-markdown';
 import { Sidebar } from './components/Sidebar';
 import { PublicationList } from './components/PublicationList';
 import { Icon } from './components/Icon';
@@ -166,9 +167,15 @@ function App() {
                     </div>
 
                     <div className="prose prose-sm prose-academic text-academic-700 max-w-none leading-relaxed">
-                      {PROFILE.bio.split('\n').map((paragraph, idx) => (
-                         paragraph.trim() && <p key={idx} className="mb-4">{renderTextWithBold(paragraph)}</p>
-                      ))}
+                      <Markdown
+                        components={{
+                          a: ({node, ...props}) => <a className="text-academic-blue hover:underline" target="_blank" rel="noopener noreferrer" {...props} />,
+                          p: ({node, ...props}) => <p className="mb-4" {...props} />,
+                          strong: ({node, ...props}) => <strong className="font-semibold text-academic-900" {...props} />
+                        }}
+                      >
+                        {PROFILE.bio}
+                      </Markdown>
                     </div>
 
                     <div className="mt-8">
