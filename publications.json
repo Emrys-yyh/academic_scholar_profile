@@ -1,0 +1,84 @@
+{
+  "en": [
+    {
+      "id": "p1",
+      "title": "Learning Robust Visual Representations from Noisy Web Data",
+      "authors": ["Alex Chen", "Sarah Smith", "Jane Doe"],
+      "venue": "International Conference on Computer Vision (ICCV)",
+      "year": 2023,
+      "highlight": true,
+      "thumbnail": "/images/publications/paper1.svg",
+      "abstract": "We propose a novel framework for learning visual representations from large-scale noisy web data without human annotations. Our method outperforms state-of-the-art self-supervised methods on standard benchmarks.",
+      "links": [
+        { "label": "PDF", "url": "#", "type": "pdf" },
+        { "label": "Code", "url": "#", "type": "code" },
+        { "label": "Project Page", "url": "#", "type": "external" }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "3D Scene Understanding via Neural Radiance Fields",
+      "authors": ["John Miller", "Alex Chen", "David Wilson"],
+      "venue": "Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "year": 2023,
+      "highlight": true,
+      "thumbnail": "/images/publications/paper2.svg",
+      "links": [
+        { "label": "PDF", "url": "#", "type": "pdf" },
+        { "label": "Video", "url": "#", "type": "demo" }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Efficient Transformers for Long-Range Video Understanding",
+      "authors": ["Alex Chen", "Emily Davis"],
+      "venue": "European Conference on Computer Vision (ECCV)",
+      "year": 2022,
+      "highlight": false,
+      "links": [
+        { "label": "PDF", "url": "#", "type": "pdf" }
+      ]
+    }
+  ],
+  "zh": [
+    {
+      "id": "p1",
+      "title": "Learning Robust Visual Representations from Noisy Web Data",
+      "authors": ["Alex Chen", "Sarah Smith", "Jane Doe"],
+      "venue": "International Conference on Computer Vision (ICCV)",
+      "year": 2023,
+      "highlight": true,
+      "thumbnail": "/images/publications/paper1.svg",
+      "abstract": "我们提出了一种新颖的框架，用于在没有人工标注的情况下从大规模噪声网络数据中学习视觉表征。我们的方法在标准基准测试中优于最先进的自监督方法。",
+      "links": [
+        { "label": "PDF", "url": "#", "type": "pdf" },
+        { "label": "代码", "url": "#", "type": "code" },
+        { "label": "项目主页", "url": "#", "type": "external" }
+      ]
+    },
+    {
+      "id": "p2",
+      "title": "3D Scene Understanding via Neural Radiance Fields",
+      "authors": ["John Miller", "Alex Chen", "David Wilson"],
+      "venue": "Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "year": 2023,
+      "highlight": true,
+      "thumbnail": "/images/publications/paper2.svg",
+      "links": [
+        { "label": "PDF", "url": "#", "type": "pdf" },
+        { "label": "视频", "url": "#", "type": "demo" }
+      ]
+    },
+    {
+      "id": "p3",
+      "title": "Efficient Transformers for Long-Range Video Understanding",
+      "authors": ["Alex Chen", "Emily Davis"],
+      "venue": "European Conference on Computer Vision (ECCV)",
+      "year": 2022,
+      "highlight": false,
+      "links": [
+        { "label": "PDF", "url": "#", "type": "pdf" }
+      ]
+    }
+  ]
+}
