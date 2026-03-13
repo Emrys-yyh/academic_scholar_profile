@@ -1,14 +1,8 @@
 {
   "en": [
-    { "id": "1", "date": "Oct 2023", "content": "One paper on **3D Gaussian Splatting** accepted to **ICCV 2023** (Oral)!" },
-    { "id": "2", "date": "Aug 2023", "content": "Started my postdoc at Stanford University." },
-    { "id": "3", "date": "Jun 2023", "content": "Successfully defended my Ph.D. thesis at MIT." },
-    { "id": "4", "date": "May 2023", "content": "Received the Outstanding Reviewer Award at CVPR 2023." }
+    { "id": "1", "date": "Jan 2026", "content": "I participated in the **Dream Building Program**!" }
   ],
   "zh": [
-    { "id": "1", "date": "2023年10月", "content": "一篇关于 **3D Gaussian Splatting** 的论文被 **ICCV 2023** 接收为口头报告 (Oral)！" },
-    { "id": "2", "date": "2023年8月", "content": "开始在斯坦福大学进行博士后研究。" },
-    { "id": "3", "date": "2023年6月", "content": "在麻省理工学院顺利通过博士论文答辩。" },
-    { "id": "4", "date": "2023年5月", "content": "获得 CVPR 2023 杰出审稿人奖。" }
+    { "id": "1", "date": "2026年1月", "content": "我参加了**筑梦计划**！" }
   ]
 }
