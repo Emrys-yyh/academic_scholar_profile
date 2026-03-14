@@ -41,9 +41,9 @@ export const data = {
         title: 'Awards & Honors', 
         type: 'awards', 
         content: [
-          { id: 'aw1', title: "People's Scholarship", organization: "NJU", year: "Dec 2025" },
+          { id: 'aw1', title: "Provincial Third Prize, Contemporary Undergraduate Mathematical Contest in Modeling",organization: "CUCUM",year: " Sep 2025"},
           { id: 'aw2', title: "Provincial Second Prize, The Chinese Mathematics Competitions", organization: "CMC", year: "Oct 2025"},
-          { id: 'aw3', title: "Provincial Third Prize, Contemporary Undergraduate Mathematical Contest in Modeling",organization: "CUCUM",year: " Sep 2025"},
+          { id: 'aw3', title: "People's Scholarship", organization: "NJU", year: "Dec 2025" },
         ] 
       },
       { 
