@@ -25,7 +25,7 @@ export const data = {
       socials: [
         { platform: 'email', url: 'mailto:yuhangyang@smail.nju.edu.cn' },
         // { platform: 'scholar', url: 'https://scholar.google.com', username: 'Google Scholar' },
-        { platform: 'github', url: 'https://github.com/Emrys-yyh, username: 'GitHub' },
+        { platform: 'github', url: 'https://github.com/Emrys-yyh', username: 'GitHub' },
         { platform: 'zhihu', url: 'https://www.zhihu.com/people/74-44-50-26-39', username: 'Zhihu' },
         { platform: 'xiaohongshu', url: 'https://www.xiaohongshu.com/user/profile/692941e000000000380194d0', username: 'Xiaohongshu' },
       ],
