@@ -41,9 +41,9 @@ export const data = {
         title: 'Awards & Honors', 
         type: 'awards', 
         content: [
-          { id: 'aw1', title: "Provincial Third Prize, Contemporary Undergraduate Mathematical Contest in Modeling",organization: "CUCUM",year: " Sep 2025"},
-          { id: 'aw2', title: "Provincial Second Prize, The Chinese Mathematics Competitions", organization: "CMC", year: "Oct 2025"},
-          { id: 'aw3', title: "People's Scholarship", organization: "NJU", year: "Dec 2025" },
+          { id: 'aw1', title: "Provincial Third Prize, Contemporary Undergraduate Mathematical Contest in Modeling",organization: "China Society for Industrial and Applied Mathematics",year: " Sep 2025"},
+          { id: 'aw2', title: "Provincial Second Prize, The Chinese Mathematics Competitions", organization: "Chinese Mathematical Society", year: "Oct 2025"},
+          { id: 'aw3', title: "People's Scholarship", organization: "Nanjing University", year: "Dec 2025" },
         ] 
       },
       { 
@@ -103,8 +103,9 @@ export const data = {
         title: '荣誉奖项', 
         type: 'awards', 
         content: [
-          { id: 'aw1', title: "人民奖学金", organization: "南京大学", year: "2025" },
-          // { id: 'aw3', title: "国家奖学金", organization: "教育部", year: "2017" }
+          { id: 'aw1', title: "全国大学生数学建模竞赛江苏省三等奖", organization: "中国工业与应用数学学会", year: "2025年9月" }
+          { id: 'aw2', title: "全国大学生数学竞赛江苏省二等奖", organization: "中国数学会", year: "2025年10月" }
+          { id: 'aw3', title: "人民奖学金", organization: "南京大学", year: "2025年12月" },
         ] 
       },
       { 
