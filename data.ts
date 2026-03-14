@@ -12,7 +12,7 @@ export const data = {
       location: "Shanghai, China",
       bio: `
         I am an undergraduate student in Computer Science at **Shanghai Jiao Tong University**, and a member of the **Yongqiang Honors Class**.
-        I am currently a member of the [X-LANCE Lab](https://xlance.sjtu.edu.cn) at SJTU, where I conduct research under the supervision of Professor [Xie Chen](https://chenxie95.github.io).
+        I am currently a member of the [X-LANCE Lab](https://x-lance.sjtu.edu.cn) at SJTU, where I conduct research under the supervision of Professor [Xie Chen](https://chenxie95.github.io).
         My research interests lie in speech and language technologies, with a particular focus on speech generation and voice interaction. I am especially interested in the integration of speech systems with large language models and intelligent agents, and in exploring how speech can serve as a natural interface for intelligent systems.
         Beyond research, I am also enthusiastic about volunteer service and public-interest activities, and enjoy contributing to initiatives that use technology to create positive social impact.
       `,
@@ -73,7 +73,7 @@ export const data = {
       location: "中国 上海",
       bio: `
         我是上海交通大学计算机科学与技术专业本科生，永强班成员。
-        目前是 [X-LANCE Lab](https://xlance.sjtu.edu.cn) 成员，在陈谐教授（[Xie Chen](https://chenxie95.github.io)）指导下开展研究。
+        目前是 [X-LANCE Lab](https://x-lance.sjtu.edu.cn) 成员，在陈谐教授（[Xie Chen](https://chenxie95.github.io)）指导下开展研究。
         我的研究兴趣主要在语音与语言技术方向，关注语音生成与语音交互，以及语音系统与大语言模型和智能体系统的结合。我对探索语音作为智能系统自然交互接口的可能性尤为感兴趣。
         在科研之外，我也热衷于参与志愿服务与公益活动，希望通过技术与行动为社会创造一些积极影响。  
       `,
