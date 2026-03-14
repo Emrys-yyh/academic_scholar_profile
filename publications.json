@@ -7,7 +7,7 @@
       "venue": "ACL",
       "year": 2026,
       "highlight": true,
-      "thumbnail": "/images/publications/xiaoxiong.png",
+      "thumbnail": "./public/images/publications/xiaoxiong.png",
       "abstract": "This is the abstract of my first paper. It describes the main contributions and findings of the research.",
       "links": [
         { "label": "PDF", "url": "#", "type": "pdf" },
@@ -24,7 +24,7 @@
       "venue": "ACL",
       "year": 2026,
       "highlight": true,
-      "thumbnail": "/images/publications/xiaoxiong.png",
+      "thumbnail": "./public/images/publications/xiaoxiong.png",
       "abstract": "我会马上有自己的论文的！",
       "links": [
         { "label": "PDF", "url": "#", "type": "pdf" },
