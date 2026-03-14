@@ -112,7 +112,7 @@ export const data = {
         title: '教育背景', 
         type: 'timeline', 
         content: [
-          { id: 'ed1', role: "本科生", organization: "上海交通大学(Shanghai Jiao Tong University)", period: "2024 - 至今", description: "计算机科学与技术 导师: 陈谐教授" },
+          { id: 'ed1', role: "本科生", organization: "上海交通大学(Shanghai Jiao Tong University)", period: "2024 - 至今", description: "计算机科学与技术 导师:陈谐教授" },
           { id: 'ed2', role: "高中生", organization: "衡阳市第八中学", period: "2021 - 2024", description: "这是一段难忘的回忆" },
           // { id: 'ed3', role: "计算机科学学士", organization: "加州大学伯克利分校 (UC Berkeley)", period: "2014 - 2018" }
         ] 
