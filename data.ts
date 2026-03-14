@@ -41,7 +41,9 @@ export const data = {
         title: 'Awards & Honors', 
         type: 'awards', 
         content: [
-          { id: 'aw1', title: "People's Scholarship", organization: "NJU", year: "2025" },
+          { id: 'aw1', title: "People's Scholarship", organization: "NJU", year: "Dec 2025" },
+          { id: 'aw2', title: "Provincial Second Prize, The Chinese Mathematics Competitions", organization: "CMC", year: "Oct 2025"},
+          { id: 'aw3', title: "Provincial Third Prize, Contemporary Undergraduate Mathematical Contest in Modeling",organization: "CUCUM",year: " Sep 2025"},
         ] 
       },
       { 
@@ -49,7 +51,7 @@ export const data = {
         title: 'Education', 
         type: 'timeline', 
         content: [
-          { id: 'ed1', role: "Undergraduate Student", organization: "Shanghai Jiao Tong University", period: "2024 - present", description: "Major: Computer Science and Technology, Advisor: Prof. Xie Chen" },
+          { id: 'ed1', role: "Undergraduate Student", organization: "Nanjing University", period: "2024 - present", description: "Major: Mathematics" },
           { id: 'ed2', role: "Senior High Student", organization: "Hengyang No.8 High School", period: "2021 - 2024", description: "An unforgettable experience" },
           ] 
       },
@@ -110,7 +112,7 @@ export const data = {
         title: '教育背景', 
         type: 'timeline', 
         content: [
-          { id: 'ed1', role: "本科生", organization: "上海交通大学(Shanghai Jiao Tong University)", period: "2024 - 至今", description: "计算机科学与技术 导师:陈谐教授" },
+          { id: 'ed1', role: "本科生", organization: "南京大学（Nanjing University)", period: "2024 - 至今", description: "专业：数学" },
           { id: 'ed2', role: "高中生", organization: "衡阳市第八中学", period: "2021 - 2024", description: "这是一段难忘的回忆" },
           // { id: 'ed3', role: "计算机科学学士", organization: "加州大学伯克利分校 (UC Berkeley)", period: "2014 - 2018" }
         ] 
@@ -120,7 +122,7 @@ export const data = {
         title: '实习经历', 
         type: 'timeline', 
         content: [
-          { id: 'in1', role: "研究实习生", organization: "X-lance Lab", period: "2024.08 - 至今", description: "参与语音生成相关研究。" }
+    
         ] 
       }
     ] as SectionConfig[]
