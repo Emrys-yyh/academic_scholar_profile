@@ -77,7 +77,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ activeSection, profile, sectio
           {/* Profile Image - True Oval shape */}
           <div className="w-32 h-40 rounded-[50%] overflow-hidden mb-6 border-2 border-white shadow-sm ring-1 ring-academic-200 mx-auto md:mx-0">
              <img
-               src="images/profile/avator.jpg"
+               src="images/profile/me.jpg"
                alt={profile.name}
                className="w-full h-full object-cover object-center" 
              />
