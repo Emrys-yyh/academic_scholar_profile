@@ -13,7 +13,7 @@ export const data = {
       bio: `
       Hi, I'm Yuhang Yang, a sophomore Mathematics major at Nanjing University. Driven by the philosophy that "mathematics is the soul of AI," my passion lies at the intersection of pure math and deep learning. Built upon a rigorous foundation in advanced mathematics, I am captivated by the fundamental "what" and "why" behind models, rather than solely focusing on engineering applications.
       My current research curiosity is deeply inspired by associative memory models like generalized Hopfield Networks. I am fascinated by how abstract mathematical operations—such as similarity metrics and separation functions—can fundamentally define a machine's learning behavior. I am dedicated to using rigorous math to establish the underlying logic of AI, specifically within Explainable AI (XAI).
-      I thrive on the magic of translating complex mathematical equations into clean Python algorithms. Proficient in Python and LaTeX, and supported by a highly developed personal knowledge management system, I approach every task meticulously. Off-screen, I enjoy basketball, table tennis, and swimming, valuing both independent deep work and collaborative teamwork.
+      I thrive on the magic of translating complex mathematical equations into clean Python algorithms. Proficient in Python and LaTeX, and supported by a highly developed personal knowledge management system, I approach every task meticulously. 
       As I plan my transition towards an AI-oriented graduate path, I am eagerly seeking opportunities to join a dynamic AI research lab and contribute to cutting-edge research.
       `,
       researchInterests: [
@@ -75,7 +75,7 @@ export const data = {
       bio: `
       你好，我是阳宇航，南京大学数学系大二学生。我坚信“数学是人工智能的灵魂”，并致力于探索纯数学与深度学习的交叉地带。基于在数学分析、抽象代数等高级数学领域打下的坚实基础，相较于单纯的工程调参，我更痴迷于探究模型背后的“是什么”与“为什么”。
       近期，我的研究兴趣深受广义 Hopfield 网络等联想记忆模型的启发，热衷于探索如何通过抽象的数学操作（如相似性度量与分离函数）从底层重构机器的记忆容量与学习行为。我希望用严谨的数学逻辑去解释 AI，尤其关注可解释性 AI (XAI) 领域。
-      我非常享受将复杂的数学方程转化为高效 Python 代码的过程。我熟练掌握 Python 与 LaTeX，并建有高度结构化的个人知识管理系统以保持精益求精的研究状态。学术之外，我热爱篮球、乒乓球和游泳，既享受独立深度的思考，也十分注重团队协作。
+      我非常享受将复杂的数学方程转化为高效 Python 代码的过程。我熟练掌握 Python 与 LaTeX，并建有高度结构化的个人知识管理系统以保持精益求精的研究状态。
       目前，我正计划在研究生阶段全面转向 AI 方向。我非常渴望能加入一个充满活力的 AI 课题组，参与到激动人心的前沿科研中去。
         `,
       researchInterests: [
