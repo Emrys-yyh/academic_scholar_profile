@@ -155,7 +155,7 @@ function App() {
                     <h2 className="sr-only">About</h2>
                     {/* Mobile Header (Repeated info for mobile since sidebar is hidden) */}
                     <div className="md:hidden mb-8 text-center">
-                      <img src="images/profile/profile.jpg" alt={PROFILE.name} className="w-28 h-36 rounded-[50%] mx-auto mb-4 object-cover ring-2 ring-academic-100" />
+                      <img src="images/profile/avator.jpg" alt={PROFILE.name} className="w-28 h-36 rounded-[50%] mx-auto mb-4 object-cover ring-2 ring-academic-100" />
                       <h1 className="font-serif text-xl font-bold text-academic-900">{PROFILE.name}</h1>
                       <p className="text-academic-600 mb-1 text-sm">{PROFILE.title}</p>
                       <p className="text-academic-500 text-xs mb-4">{PROFILE.affiliation}</p>
