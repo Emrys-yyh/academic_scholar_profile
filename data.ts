@@ -59,7 +59,6 @@ export const data = {
         title: 'Internships', 
         type: 'timeline', 
         content: [
-          { id: 'in1', role: "Research Intern", organization: "X-lance Lab", period: "2024.08 - present", description: "Worked on speech generation." }
         ] 
       }
     ] as SectionConfig[]
